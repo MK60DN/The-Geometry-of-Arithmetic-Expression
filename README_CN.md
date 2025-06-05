@@ -29,10 +29,10 @@ $$g_{\mu\nu}(x) = \text{Re}\left[\Phi_\mu(x) \cdot \overline{\Phi_\nu(x)}\right]
 
 ### 四个基本性质
 
-1. **指数衰减**：$|\Phi_\mu(x)| = |A_\mu| \cdot e^{-\alpha_\mu x_\mu}$
-2. **对数相位旋转**：$\arg(\Phi_\mu(x)) = \arg(A_\mu) + 2\pi \ln x_\mu$
-3. **乘法周期性**：仅当 $\alpha_\mu = 0$ 且 $\lambda = e^k$ 时存在
-4. **尺度协变性**：$\Phi_\mu(\lambda x) = \lambda^{2\pi i} \Phi_\mu(x) \cdot e^{-\alpha_\mu(\lambda-1)x}$
+1. **指数衰减**：$$|\Phi_\mu(x)| = |A_\mu| \cdot e^{-\alpha_\mu x_\mu}$$
+2. **对数相位旋转**：$$\arg(\Phi_\mu(x)) = \arg(A_\mu) + 2\pi \ln x_\mu$$
+3. **乘法周期性**：仅当 $$\alpha_\mu = 0$ 且 $\lambda = e^k$$ 时存在
+4. **尺度协变性**：$$\Phi_\mu(\lambda x) = \lambda^{2\pi i} \Phi_\mu(x) \cdot e^{-\alpha_\mu(\lambda-1)x}$$
 
 ---
 
