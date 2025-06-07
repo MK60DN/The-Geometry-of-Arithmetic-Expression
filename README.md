@@ -216,8 +216,6 @@ This research emerges from collaborative mathematical exploration. We acknowledg
 
 - The principles of open mathematical research
 - Anonymous contributors to theoretical development
-- The MathOverflow community for scholarly discussion
-- The broader mathematical community for foundational knowledge
 
 **Disclaimer**: This work represents independent mathematical research and does not necessarily reflect the views of any institution or organization.
 
