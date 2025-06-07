@@ -219,8 +219,6 @@ $$g_{\mu\nu}(x) = \text{Re}\left[\Phi_\mu(x) \cdot \overline{\Phi_\nu(x)}\right]
 
 - 开放数学研究的原则
 - 理论发展的匿名贡献者
-- MathOverflow社区的学术讨论
-- 更广泛数学社区的基础知识
 
 **声明**：本工作代表独立的数学研究，不一定反映任何机构或组织的观点。
 
